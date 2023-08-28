@@ -4,3 +4,13 @@
 2023-08-29 01:05:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
 2023-08-29 01:05:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
 2023-08-29 01:05:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2023-08-29 01:31:21 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on IN3257375W1 with PID 19524 (C:\Personal\Java\event-driven-microservices-springboot-kafka-elasticsearch\microservices-demo\twitter-to-kafka-service\target\classes started by HE372SB in C:\Personal\Java\event-driven-microservices-springboot-kafka-elasticsearch\microservices-demo)
+2023-08-29 01:31:21 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-08-29 01:31:21 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.026 seconds (JVM running for 1.872)
+2023-08-29 01:31:21 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-08-29 01:31:21 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2023-08-29 01:31:21 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2023-08-29 01:31:21 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2023-08-29 01:31:21 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text massa pulvinar ipsum adipiscing Lorem lectus Maecenas Elasticsearch pulvinar ipsum consectetuer congue consectetuer elit
+2023-08-29 01:31:31 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text sit congue amet malesuada ultricies Elasticsearch posuere elit posuere
+2023-08-29 01:31:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dolor posuere malesuada massa sed pulvinar Microservices pulvinar lectus libero libero

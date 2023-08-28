@@ -59,8 +59,10 @@
 				<scope>provided</scope>
 			</dependency>
 
+
 		</dependencies>
 	</dependencyManagement>
+
 
 	<build>
 		<plugins>
